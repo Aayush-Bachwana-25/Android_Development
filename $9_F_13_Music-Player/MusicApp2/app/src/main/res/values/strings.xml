@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MusicApp2</string>
+    <string name="welcome_text">Welcome to myMusic...\n Press on START</string>
+</resources>
