@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Email Sending Mobile Application</string>
+    <string name="email">Enter comma(,) separated Email addresses:-</string>
+</resources>
