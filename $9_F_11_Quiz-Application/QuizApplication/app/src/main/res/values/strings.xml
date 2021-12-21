@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quiz Application</string>
+
+    <string name="instructions">
+        1. There are 6 questions in this quiz.\n2. All questions carries of 5 marks each.\n3. A negative marking of (20%) i.e -1 is imposed for each wrong answers.\n4. All questions are compulsary.
+    </string>
+</resources>
